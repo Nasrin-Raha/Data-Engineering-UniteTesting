@@ -1,3 +1,9 @@
+"""
+This module contains unit tests for the 'mymodule' module.
+
+These tests cover the functions 'square', 'double', and 'add' in the 'mymodule' module.
+"""
+
 import unittest
 from mymodule import square, double, add
 
